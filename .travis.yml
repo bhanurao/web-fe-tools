@@ -6,4 +6,13 @@ cache:
   - node_modules
 script:
   - npm test
+  - npm run test:coverage
   - npm run build
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $tk-web-fe-tools
+  local_dir: build
+  on:
+    branch: master
