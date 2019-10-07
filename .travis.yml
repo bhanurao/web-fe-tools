@@ -12,7 +12,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $tk-web-fe-tools
+  github_token: $tkweb
   local_dir: build
   on:
     branch: master
