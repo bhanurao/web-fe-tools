@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/web-fe-tools/static/css/main.b100e6da.chunk.css",
+    "main.js": "/web-fe-tools/static/js/main.0f8e8b25.chunk.js",
+    "main.js.map": "/web-fe-tools/static/js/main.0f8e8b25.chunk.js.map",
+    "runtime-main.js": "/web-fe-tools/static/js/runtime-main.bfc88d70.js",
+    "runtime-main.js.map": "/web-fe-tools/static/js/runtime-main.bfc88d70.js.map",
+    "static/js/2.ca8ac8ba.chunk.js": "/web-fe-tools/static/js/2.ca8ac8ba.chunk.js",
+    "static/js/2.ca8ac8ba.chunk.js.map": "/web-fe-tools/static/js/2.ca8ac8ba.chunk.js.map",
+    "index.html": "/web-fe-tools/index.html",
+    "precache-manifest.606eb529b1dbfed7003fc071d574119c.js": "/web-fe-tools/precache-manifest.606eb529b1dbfed7003fc071d574119c.js",
+    "service-worker.js": "/web-fe-tools/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/web-fe-tools/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/web-fe-tools/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfc88d70.js",
+    "static/js/2.ca8ac8ba.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.0f8e8b25.chunk.js"
+  ]
+}
